@@ -38,11 +38,14 @@ For nostalgia and less critical purposes have a look at the solution presented h
 |`WindowTitle=`|The window title to display.|
 |`DontUpdateConfig`|Don't write window size and position back to the configuration file when exiting the application. This option doesn't have a value.|
 
+## Compatibility & Legal Questions
+Running the recovered Adobe Flash ActiveX and the application from this repository will technically work with Windows XP and newer, including Windows Server 2003+, and Windows 7. However, as you're copying files from a Windows 10 ISO, I believe these files are solely licensed to you for usage with Windows 10 or maybe even solely for usage with that specific version of Windows 10. I also believe that downloading the Windows 10 ISO file also already requires a valid Windows 10 license, though it's technically possible without. I'll leave it to you as an exercise, to figure this out.
+
 ## Disclaimer
 
 I'm not affiliated with any of Microsoft, Adobe, or Harman.
 
-I'm not responsible for any damage caused directly or indirectly by applying the presented approach.
+I'm not responsible for any damage caused directly or indirectly by applying the presented approach, neither technically, nor legally.
 
 Before applying the presented approach, check with your legal adviser.
 
